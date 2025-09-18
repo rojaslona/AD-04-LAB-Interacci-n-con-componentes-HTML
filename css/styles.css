@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+button, p {
+    margin: 10px;
+    cursor: pointer;
+}
+
+#burger-img {
+    width: 200px;
+    margin-top: 10px;
+}
